@@ -5,7 +5,7 @@ The default ItemStep covers the majority of cases but sometimes you need to crea
 
 For instance, at the end of an export you may want to send a custom email, copy the result to a FTP server or call a specific URL to report the result.
 
-Let's see how to go further by creating a custom step which sends a notification to a URL when a product export is finished.
+Let's see how to go further by creating a custom step which sends a notification to an URL when a product export is finished.
 
 Create our Step
 ---------------
